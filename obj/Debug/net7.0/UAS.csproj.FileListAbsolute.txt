@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\Desktop\Daspro\UAS\bin\Debug\net7.0\UAS.exe
+C:\Users\ASUS\OneDrive\Desktop\Daspro\UAS\bin\Debug\net7.0\UAS.deps.json
+C:\Users\ASUS\OneDrive\Desktop\Daspro\UAS\bin\Debug\net7.0\UAS.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\Daspro\UAS\bin\Debug\net7.0\UAS.dll
+C:\Users\ASUS\OneDrive\Desktop\Daspro\UAS\bin\Debug\net7.0\UAS.pdb
+C:\Users\ASUS\OneDrive\Desktop\Daspro\UAS\obj\Debug\net7.0\UAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\Daspro\UAS\obj\Debug\net7.0\UAS.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\Daspro\UAS\obj\Debug\net7.0\UAS.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\Daspro\UAS\obj\Debug\net7.0\UAS.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\Daspro\UAS\obj\Debug\net7.0\UAS.dll
+C:\Users\ASUS\OneDrive\Desktop\Daspro\UAS\obj\Debug\net7.0\refint\UAS.dll
+C:\Users\ASUS\OneDrive\Desktop\Daspro\UAS\obj\Debug\net7.0\UAS.pdb
+C:\Users\ASUS\OneDrive\Desktop\Daspro\UAS\obj\Debug\net7.0\UAS.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\Daspro\UAS\obj\Debug\net7.0\ref\UAS.dll
